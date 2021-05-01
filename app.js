@@ -1,1 +1,1 @@
-const head = "head !";
+const head = "head ";
